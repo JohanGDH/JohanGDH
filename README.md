@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning MEAN stack.
 - 📫 How to reach me ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johangdh&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johangdh&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johangdh&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 JohanGDH/JohanGDH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
